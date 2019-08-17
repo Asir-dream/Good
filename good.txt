@@ -7,4 +7,4 @@ eafsdfa
 adfasfa
 adf[][]aii::
 git status 查看工作区、暂存区状态；
-
+推送 通过 ssh
